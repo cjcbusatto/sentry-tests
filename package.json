@@ -1,0 +1,12 @@
+{
+  "name": "sentry-tests",
+  "version": "1.0.0",
+  "description": "Tests to analyze the features of sentry to include on another projects",
+  "main": "index.js",
+  "author": "Claudio Busatto",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "5.9.0",
+    "dotenv": "^8.2.0"
+  }
+}
